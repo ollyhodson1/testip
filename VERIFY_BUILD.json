@@ -1,0 +1,15 @@
+{
+  "merged_build": "MSFT_INCIDENT_AND_IP_MERGED_VERIFIED_20260608",
+  "incident_source": "MSFT_Incident_Report_Victoria_IP_NextButton_Verified.zip",
+  "ip_source": "MSFT_IP_Form_ORIGINAL_STYLE_LOCKED_v3_FLAT_VERIFIED.zip",
+  "checks_expected": {
+    "docs_index_present": true,
+    "docs_ip_form_present": true,
+    "go_to_ip_form_link": "./ip-form.html",
+    "visual_build_markers_removed_from_html": true,
+    "ip_form_locked_incident_number": "MSFT-IR-20260608-LCGQL",
+    "ip_form_locked_chris_email": "chris.doogan@salford.example",
+    "ip_form_original_style_no_mail_shell": true,
+    "no_browser_alerts": true
+  }
+}
