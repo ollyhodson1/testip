@@ -1,0 +1,13 @@
+{
+  "build": "MSFT_COMPLETE_VICTORIA_INCIDENT_IP_EMAIL_MERGED",
+  "checks": {
+    "incident_report_entrypoint_docs_index": true,
+    "ip_form_docs_ip_form": true,
+    "email_app_docs_email": true,
+    "email_assets_present": true,
+    "incident_goes_to_ip_form": true,
+    "ip_submit_goes_to_email": true,
+    "no_visible_build_markers_in_html": true,
+    "no_browser_alerts": true
+  }
+}
